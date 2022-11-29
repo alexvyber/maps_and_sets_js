@@ -27,3 +27,5 @@ console.log(weakMap.delete(obj)) // true
 console.log(weakMap.has(obj)) // false
 
 console.log(weakMap)
+
+export {}
